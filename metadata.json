@@ -1,0 +1,5 @@
+{
+  "name": "Solucionador de Mapas de Karnaugh Pro",
+  "description": "Una aplicación web interactiva que permite a los usuarios resolver mapas de Karnaugh para 2, 3 o 4 variables. Proporciona soluciones paso a paso y destaca múltiples simplificaciones posibles, con la tecnología de la API de Gemini.",
+  "requestFramePermissions": []
+}
