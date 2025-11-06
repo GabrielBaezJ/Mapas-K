@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 interface VariableSelectorProps {
@@ -6,7 +5,7 @@ interface VariableSelectorProps {
     onVarChange: (vars: number) => void;
 }
 
-const VAR_OPTIONS = [2, 3, 4];
+const VAR_OPTIONS = [2, 3, 4, 5];
 
 const VariableSelector: React.FC<VariableSelectorProps> = ({ selectedVars, onVarChange }) => {
     return (
